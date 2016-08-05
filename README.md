@@ -1,2 +1,2 @@
-# OpenV
+# OpenV Game Engine
 3D Game Engine Project
